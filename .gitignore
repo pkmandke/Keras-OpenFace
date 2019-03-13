@@ -1,3 +1,5 @@
 # LFW Data
 data/
 coreml/
+eval/__pycache__/**
+eval/.ipynb_checkpoints/**
